@@ -1,0 +1,166 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Панель управления</title>
+    <link href="{% static 'TripTuner/css/control_panel.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <style>
+        h3 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .add-form {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .add-form form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        pre {
+            background-color: #f4f7fc;
+            padding: 15px;
+            border-radius: 6px;
+            font-size: 14px;
+            white-space: pre-wrap;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Панель управления</h1>
+        <p>Добро пожаловать, {{ user.first_name|default:"Пользователь" }}!</p>
+        <a class="dropdown-item" href="{% url 'logout' %}">Выйти</a>
+
+        <div class="table-buttons">
+            {% for table, label in tables %}
+                <a href="?table={{ table }}"><button>{{ label }}</button></a>
+            {% endfor %}
+        </div>
+
+        <div class="add-form">
+        {% if form.instance.pk %}
+            <h3>Изменить запись</h3>
+            {% else %}
+            <h3>Добавить запись</h3>
+        {% endif %}
+            <form method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_div }}
+                {% if form.instance.pk %}
+                    <button type="submit">Изменить</button>
+                {% else %}
+                    <button type="submit">Добавить</button>
+                {% endif %}
+            </form>
+        </div>
+
+
+        <div id="tableList">
+            <h3>Список записей</h3>
+            <ul>
+                {% for object in objects %}
+                    <li>
+                        {{ object }}
+                        <a href="{% url 'edit_object' pk=object.pk table=table_name %}">
+                            <button>Изменить</button>
+                        </a>
+                        <a href="{% url 'delete_object' pk=object.pk table=table_name %}" onclick="return confirm('Вы уверены?')">
+                            <button>Удалить</button>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="import-export">
+            <div class="import">
+                <h3>Импорт данных</h3>
+                <form action="{% url 'import' %}" method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <label for="table">Выберите таблицу:</label>
+                    <select name="table" required>
+                        {% for table, label in tables %}
+                            <option value="{{ table }}">{{ label }}</option>
+                        {% endfor %}
+                    </select>
+                    <label for="file">Выберите файл:</label>
+                    <input type="file" name="file" required>
+                    <select name="format" required>
+                        <option value="json">JSON</option>
+                    </select>
+                    <button type="submit">Импортировать</button>
+                </form>
+            </div>
+
+            <div class="export">
+                <h3>Экспорт данных</h3>
+                <form action="{% url 'export' %}" method="get">
+                    <label for="table">Выберите таблицу:</label>
+                    <select name="table" required>
+                        {% for table, label in tables %}
+                            <option value="{{ table }}">{{ label }}</option>
+                        {% endfor %}
+                    </select>
+                    <select name="format" required>
+                        <option value="json">JSON</option>
+                        <option value="pdf">PDF</option>
+                    </select>
+                    <button type="submit">Экспортировать</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

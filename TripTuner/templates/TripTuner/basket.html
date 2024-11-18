@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Корзина{% endblock %}
+{% block links %}
+    <link rel="stylesheet" href="{% static 'TripTuner/css/tours_countries.css' %}">
+    <link rel="stylesheet" href="{% static 'TripTuner/css/basket.css' %}">
+{% endblock %}
+
+{% block content %}
+ <div class="news-header">
+     <h1>Корзина</h1>
+ </div>
+
+<div class="cart-container">
+    {% if orders %}
+        {% for order in orders %}
+            <div class="order-card">
+                <img src="{{ order.flight_id.tour_id.image.url }}" alt="{{ order.flight_id.tour_id.title }}">
+                <div class="order-details">
+                    <p><strong>Номер рейса:</strong> {{ order.flight_id.flight_number }}</p>
+                    <p><strong>Забронированные места:</strong> {{ order.booking_place }}</p>
+                    <p><strong>Цена заказа:</strong> {{ order.price_of_order }} руб.</p>
+                    <p><strong>Дата заказа:</strong> {{ order.date_ordered }}</p>
+
+                <form action="{% url 'remove_from_cart' order.id %}" method="post" style="display:inline;" onclick="return confirm('Вы уверены, что хотите удалить из корзины?');">
+                    {% csrf_token %}
+                    <button type="submit" class="remove-button">Удалить из корзины</button>
+                </form>
+                <div class="payment-btn">
+                    <a type="button" href="{% url 'payment_page' order.id %}">Перейти к оплате</a>
+                </div>
+
+                </div>
+            </div>
+            <div class="payment-btn">
+                <a type="button" href="{% url 'payment_page' order.id%}">Перейти к оплате</a>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>Ваша корзина пуста.</p>
+    {% endif %}
+</div>
+{% endblock %}

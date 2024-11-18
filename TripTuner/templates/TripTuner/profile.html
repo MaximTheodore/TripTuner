@@ -1,0 +1,277 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Профиль{% endblock %}
+{% block links %}
+    <link href="{% static 'TripTuner/css/profile.css' %}">
+{% endblock %}
+{% block style %}
+:root {
+        --primary-color: #4CAF50;
+        --secondary-color: #2196F3;
+        --background-color: #f9f9f9;
+        --text-color: #333;
+        --shadow-color: rgba(0, 0, 0, 0.2);
+    }
+
+    .profile-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        height: auto;
+        background-color: #f0f0f0;
+    }
+
+    .profile-card {
+        max-width: 350px;
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px var(--shadow-color);
+        background-color: var(--background-color);
+        margin: 10px;
+    }
+
+    .profile-image {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        margin-bottom: 15px;
+        border: 3px solid var(--primary-color);
+        object-fit: cover;
+    }
+
+    .profile-info {
+        font-size: 1em;
+        margin-bottom: 15px;
+    }
+
+    .profile-info input {
+        width: calc(100% - 16px);
+        padding: 8px;
+        margin-top: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .profile-info strong {
+        font-size: 0.95em;
+        color: var(--text-color);
+    }
+
+    .profile-buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 15px;
+    }
+
+    .profile-buttons button {
+        flex: 1;
+        margin: 0 5px;
+        padding: 8px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .save-btn {
+        background-color: var(--primary-color);
+        color: white;
+    }
+
+    .save-btn:hover {
+        background-color: #45a049;
+    }
+
+    .order-btn {
+        background-color: var(--secondary-color);
+        color: white;
+    }
+
+    .order-btn:hover {
+        background-color: #1976d2;
+    }
+
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-content {
+        background-color: #fefefe;
+        margin: 10% auto;
+        padding: 20px;
+        border-radius: 10px;
+        width: 90%;
+        max-width: 400px;
+        box-shadow: 0 4px 8px var(--shadow-color);
+    }
+
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: black;
+        cursor: pointer;
+    }
+
+    .support-form textarea {
+        width: calc(100% - 16px);
+        height: 100px;
+        margin-top: 10px;
+        border-radius: 5px;
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
+
+    .support-form button {
+        margin-top: 10px;
+        padding: 10px 20px;
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .support-form button:hover {
+        background-color: #45a049;
+    }
+    .support-button {
+    background-color: var(--secondary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    box-shadow: 0 2px 5px var(--shadow-color);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.support-button:hover {
+    background-color: #1976d2;
+    transform: translateY(-2px);
+}
+
+.support-button:active {
+    transform: translateY(0);
+}
+.profile-image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #000000;
+    object-fit: cover;
+}
+
+{% endblock %}
+
+
+{% block content %}
+<div class="profile-container">
+    <div class="profile-card">
+      {% if user.image %}
+       <div class="profile-image-container">
+            <img src="{{ user.image.url }}" alt="Фото профиля" class="profile-image">
+        </div>
+    {% else %}
+          <div class="profile-image-container">
+            <img src="{% static 'TripTuner/img/user.png' %}" alt="Аватар по умолчанию"  class="profile-image">
+          </div>
+    {% endif %}
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="profile-info">
+                <strong>Имя пользователя:</strong>
+                <input type="text" name="username" value="{{ user.username }}" {% if not editable %}disabled{% endif %}>
+            </div>
+            <div class="profile-info">
+                <strong>Имя:</strong>
+                <input type="text" name="first_name" value="{{ user.first_name }}" {% if not editable %}disabled{% endif %}>
+            </div>
+            <div class="profile-info">
+                <strong>Фамилия:</strong>
+                <input type="text" name="last_name" value="{{ user.last_name }}" {% if not editable %}disabled{% endif %}>
+            </div>
+            <div class="profile-info">
+                <strong>Электронная почта:</strong>
+                <input type="email" name="email" value="{{ user.email }}" {% if not editable %}disabled{% endif %}>
+            </div>
+            <div class="profile-info">
+                <strong>Телефон:</strong>
+                <input type="text" name="phone" value="{{ user.phone }}" {% if not editable %}disabled{% endif %}>
+            </div>
+            <div class="profile-buttons">
+                {% if editable %}
+                    <button type="submit" name="update_profile" class="save-btn">Сохранить</button>
+                {% endif %}
+                <button type="button" class="order-btn" onclick="location.href='{% url 'order_history' user.id %}'">История заказов</button>
+            </div>
+        </form>
+
+        <hr>
+
+        <form method="POST">
+            {% csrf_token %}
+            <div class="profile-info">
+                <strong>Новый пароль:</strong>
+                <input type="password" name="new_password" required>
+            </div>
+            <div class="profile-info">
+                <strong>Подтвердите пароль:</strong>
+                <input type="password" name="confirm_password" required>
+            </div>
+            <button type="submit" name="update_password" class="save-btn">Обновить пароль</button>
+        </form>
+        <br>
+    <button class="support-button" onclick="openModal()">Написать в поддержку</button>
+    </div>
+
+    <div id="supportModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Написать в поддержку</h2>
+            <form method="POST" action="{% url 'support_ticket_create' %}" class="support-form">
+                {% csrf_token %}
+                <textarea name="issue_description" placeholder="Опишите вашу проблему..." required></textarea>
+                <button type="submit">Отправить</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block script %}
+function openModal() {
+    document.getElementById("supportModal").style.display = "block";
+}
+
+function closeModal() {
+    document.getElementById("supportModal").style.display = "none";
+}
+
+window.onclick = function(event) {
+    if (event.target === document.getElementById("supportModal")) {
+        closeModal();
+    }
+};
+{% endblock %}

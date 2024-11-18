@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Рейсы{% endblock %}
+{% block links %}
+    <link href="{% static 'TripTuner/css/tours_countries.css' %}" rel="stylesheet">
+{% endblock %}
+{% block style %}
+.center-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.flight-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.flight-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.flight-card:hover {
+    transform: scale(1.02);
+}
+
+.flight-image {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+}
+
+.flight-details {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.flight-details h2 {
+    margin: 0 0 10px;
+}
+
+.flight-details p {
+    margin: 5px 0;
+}
+
+.flight-details a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.flight-details a:hover {
+    text-decoration: underline;
+}
+{% endblock %}
+
+{% block content %}
+<div class="center-container">
+    <div class="flight-list">
+        {% for flight in page_obj %}
+            <div class="flight-card">
+                <img src="{{ flight.tour_id.image.url }}" alt="Tour Image" class="flight-image">
+                <div class="flight-details">
+                    <h2>{{ flight.flight_number }}</h2>
+                    <p>Дата отправления: {{ flight.departure_date }}</p>
+                    <p>Дата возвращения: {{ flight.return_date }}</p>
+                    <p>Стоимость с багажом: {{ flight.cost_with_bag }} руб.</p>
+                    <p>Стоимость без багажа: {{ flight.cost_without_bag }} руб.</p>
+                    <a href="{% url 'flight_detail' tour_id=flight.tour_id.id flight_id=flight.id %}">Подробнее</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        {% if page_obj.has_previous %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ page_obj.previous_page_number }}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+        {% endif %}
+        {% for p in page_obj.paginator.page_range %}
+            {% if p == page_obj.number %}
+                <li class="page-item"><a class="page-link active" href="?page={{ p }}">{{ p }}</a></li>
+            {% elif p >= page_obj.number|add:-1 and p <= page_obj.number|add:1 %}
+                <li class="page-item"><a class="page-link" href="?page={{ p }}">{{ p }}</a></li>
+            {% endif %}
+        {% endfor %}
+        {% if page_obj.has_next %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ page_obj.next_page_number }}" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>
+{% endblock %}

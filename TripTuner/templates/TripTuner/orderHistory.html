@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}История заказов{% endblock %}
+
+{% block links %}
+    <link rel="stylesheet" href="{% static 'TripTuner/css/orderPayment.css' %}">
+{% endblock %}
+{% block style %}
+    .order-history-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.2s;
+}
+
+.order-history-card:hover {
+    transform: scale(1.02);
+}
+
+.order-details-container {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.order-details h4 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.order-details p {
+    margin: 5px 0;
+    font-size: 0.95em;
+    color: #666;
+}
+
+.order-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.order-header h4 {
+    color: #007bff;
+}
+
+.order-price {
+    font-weight: bold;
+    color: #28a745;
+    margin-top: 10px;
+}
+
+{% endblock %}
+{% block content %}
+<h2>История заказов</h2>
+<div>
+    {% for order in order_history %}
+        <div class="order-history-card">
+            <div class="order-header">
+                <h4>Номер рейса: {{ order.flight_id.flight_number }}</h4>
+                <p class="order-price">Общая стоимость заказа: {{ order.price_of_order }} ₽</p>
+            </div>
+            <div class="order-details-container">
+                <div class="order-details">
+                    <p><strong>Место отправления:</strong> {{ order.flight_id.departure_location_id.name }}</p>
+                    <p><strong>Место прибытия:</strong> {{ order.flight_id.arrival_location_id.name }}</p>
+                    <p><strong>Дата отправления:</strong> {{ order.flight_id.departure_date }}</p>
+                    <p><strong>Дата возвращения:</strong> {{ order.flight_id.return_date }}</p>
+                    <p><strong>Места забронированы:</strong> {{ order.booking_place }}</p>
+                    <p><strong>Дата заказа:</strong> {{ order.date_ordered }}</p>
+                </div>
+            </div>
+        </div>
+    {% empty %}
+        <p>У вас не было заказов.</p>
+    {% endfor %}
+</div>
+{% endblock %}
+

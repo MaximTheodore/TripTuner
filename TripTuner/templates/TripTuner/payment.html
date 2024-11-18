@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Оплата{% endblock %}
+{% block links %}
+    <link rel="stylesheet" href="{% static 'TripTuner/css/orderPayment.css' %}">
+{% endblock %}
+
+{% block content %}
+<div class="payment-container">
+    <h2>Покупка</h2>
+    <form method="post">
+        {% csrf_token %}
+        <label for="id_email">Email:</label>
+
+        {{ form.email }}
+        <br>
+
+        <label for="id_quantity">Количество:</label>
+        {{ form.quantity }}
+        <br>
+        <label for="id_payment_method">Способ оплаты:</label>
+        {{ form.payment_method }}
+        <br>
+        <p>К оплате: {{ order.price_of_order }} руб.</p>
+        <br>
+        <button type="submit" class="pay-button">Перейти к оплате</button>
+    </form>
+</div>
+{% endblock %}

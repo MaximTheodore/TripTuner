@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}Туры{% endblock %}
+{% load static %}
+{% block links %}
+    <link href="{% static 'TripTuner/css/tours_countries.css' %}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<div class="container">
+<div class="news-header">
+    <h1>Туры</h1>
+    </div>
+    <div class="row">
+        {% for tour in tours %}
+        <div class="col-md-4">
+            <div class="card">
+                <img class="card-img-top" src="{{ tour.image.url }}" alt="{{ tour.title }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ tour.title }}</h5>
+                    <p class="card-text">{{ tour.description }}</p>
+                    <small class="card-footer">
+                        {{ tour.tourAgent_id.first.name }} {{ tour.tourAgent_id.last_name }} - {{ tour.tourAgent_id.phone }}
+                    </small>
+                    <a href="{% url 'flight_list' tour.id %}">Смотреть рейсы</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<nav aria-label="Page navigation example" style="align-content: center">
+  <ul class="pagination">
+  {% if page_obj.has_previous %}
+    <li class="page-item">
+      <a class="page-link" href="?page={{ page_obj.previous_page_number }}" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span>
+      </a>
+    </li>
+  {% endif %}
+      {% for p in page_obj.paginator.page_range %}
+          {% if p == page_obj.number %}
+    <li class="page-item"><a class="page-link active" href="?page={{ p }}">{{ p }}</a></li>
+          {% elif p >= page_obj.number|add:-1 and p <= page_obj.number|add:1  %}
+    <li class="page-item"><a class="page-link " href="?page={{ p }}">{{ p }}</a></li>
+          {% endif %}
+      {% endfor %}
+  {% if page_obj.has_next %}
+    <li class="page-item">
+      <a class="page-link" href="?page={{ page_obj.next_page_number }}" aria-label="Next">
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+  {% endif %}
+  </ul>
+</nav>
+{% endblock %}

@@ -1,0 +1,56 @@
+
+.flight-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.hotel-info, .review-card {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hotel-info h3, .hotel-info h4 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.room-images img, .image-200 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.price-selection {
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.price-selection select, .price-selection input {
+    margin: 5px 0;
+}
+
+.price-selection button {
+    padding: 8px 15px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.price-selection button:hover {
+    background-color: #0056b3;
+}
+

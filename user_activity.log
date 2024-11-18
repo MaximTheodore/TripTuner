@@ -1,0 +1,2813 @@
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20315
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 21148
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /admin/admin/logentry/ HTTP/1.1" 200 26541
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 304 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+"GET /static/TripTuner/css/control_panel.css HTTP/1.1" 304 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 5660
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7650
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7246
+Был прои
+"GET /triptuner/control-panel/?table=tours HTTP/1.1" 200 8134
+Был прои
+"GET /triptuner/control-panel/?table=flights HTTP/1.1" 200 8737
+Был прои
+"GET /triptuner/control-panel/?table=orders HTTP/1.1" 200 6969
+Был прои
+"GET /triptuner/control-panel/?table=tours HTTP/1.1" 200 8134
+Был прои
+"GET /triptuner/control-panel/?table=flighthotelhotelroom HTTP/1.1" 200 7007
+Был прои
+"GET /triptuner/control-panel/?table=orders HTTP/1.1" 200 6969
+Был прои
+"GET /triptuner/control-panel/?table=flights HTTP/1.1" 200 8737
+Был прои
+"GET /triptuner/control-panel/?table=tours HTTP/1.1" 200 8134
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7246
+Был прои
+"GET /triptuner/control-panel/?table=flighthotelhotelroom HTTP/1.1" 200 7007
+Был прои
+"GET /triptuner/control-panel/?table=flights HTTP/1.1" 200 8737
+Был прои
+"GET /triptuner/control-panel/?table=flights HTTP/1.1" 200 8737
+Был прои
+"GET /triptuner/control-panel/?table=orders HTTP/1.1" 200 6969
+Был прои
+"GET /triptuner/control-panel/?table=landmarks HTTP/1.1" 200 6448
+Был прои
+"GET /triptuner/control-panel/?table=flighthotelhotelroom HTTP/1.1" 200 7007
+Был прои
+"GET /triptuner/control-panel/?table=flights HTTP/1.1" 200 8737
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 200 3079
+"GET /static/TripTuner/css/header.css HTTP/1.1" 200 589
+"GET /static/TripTuner/img/img.png HTTP/1.1" 200 30831
+"GET /static/TripTuner/img/tour1.png HTTP/1.1" 200 19680
+"GET /static/TripTuner/img/tour2.png HTTP/1.1" 200 31224
+"GET /static/TripTuner/img/tour4.png HTTP/1.1" 200 306964
+"GET /static/TripTuner/img/tour3.png HTTP/1.1" 200 260966
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 200 366480
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6218
+"GET /media/tour.png HTTP/1.1" 200 25484
+"GET /media/kamchatka.png HTTP/1.1" 200 33388
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/?page=2 HTTP/1.1" 200 5304
+"GET /media/kavkaz.png HTTP/1.1" 200 41568
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4664
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4664
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4664
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4664
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4674
+Not Found: /triptuner/tours/3/flights/kavkaz.png
+"GET /triptuner/tours/3/flights/kavkaz.png HTTP/1.1" 404 9349
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4664
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4681
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4882
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5805
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 4884
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5647
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5596
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5844
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 200 2504
+Watching for file changes with StatReloader
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5779
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5789
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5093
+"GET /static/TripTuner/css/hotel.css HTTP/1.1" 200 1911
+"GET /media/sochi_5dTD7X6.jpg HTTP/1.1" 200 99936
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81 HTTP/1.1" 200 5101
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5107
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21148
+"GET /static/admin/css/base.css HTTP/1.1" 200 22092
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/TripTuner/hotel/ HTTP/1.1" 200 18722
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/TripTuner/hotel/add/ HTTP/1.1" 200 19640
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/hotel/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/hotel/ HTTP/1.1" 200 19475
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5508
+"GET /media/sochiParkHot.png HTTP/1.1" 200 38160
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5508
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5508
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5 HTTP/1.1" 200 5506
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5z HTTP/1.1" 200 5507
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5508
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5508
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5494
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+Поиск отелей по запросу 'Одиссея'.
+"GET /triptuner/hotels/?q=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F HTTP/1.1" 200 5107
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+Запрос на получение списка туров.
+Поиск туров по запросу 'Невероятные '.
+"GET /triptuner/tours/?q=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B5+ HTTP/1.1" 200 5432
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5631
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=1 HTTP/1.1" 200 6545
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 21336
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/1/change/ HTTP/1.1" 200 21849
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/1/change/ HTTP/1.1" 200 21849
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/1/history/ HTTP/1.1" 200 14583
+"GET /admin/TripTuner/user/1/change/ HTTP/1.1" 200 21849
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/1/change/ HTTP/1.1" 200 21849
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/1/change/ HTTP/1.1" 200 37996
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /admin/admin/logentry/ HTTP/1.1" 200 27093
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/admin/logentry/?action_time__day=11&action_time__month=11&action_time__year=2024 HTTP/1.1" 200 21503
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 21336
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/add/ HTTP/1.1" 200 37649
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 21336
+"GET /admin/TripTuner/user/add/ HTTP/1.1" 200 37649
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23372
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 38250
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23374
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 38250
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 22057
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/password/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/2/password/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21361
+"GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23146
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/password/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/2/password/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21361
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23146
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/add/ HTTP/1.1" 200 23163
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/password/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/password/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21359
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23146
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Internal Server Error: /admin/TripTuner/user/2/password/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py", line 39, in change_password_view
+    form = self.change_password_form(user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UserAdmin' object has no attribute 'change_password_form'
+"GET /admin/TripTuner/user/2/password/ HTTP/1.1" 500 95314
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23817
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/TripTuner/user/2/change/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py", line 39, in change_password_view
+    form = self.change_password_form(user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UserAdmin' object has no attribute 'change_password_form'
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 500 95414
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23146
+Internal Server Error: /admin/TripTuner/user/2/change/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py", line 39, in change_password_view
+    form = self.change_password_form(user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UserAdmin' object has no attribute 'change_password_form'
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 500 95277
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23350
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/TripTuner/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23374
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23321
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 23374
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/add/ HTTP/1.1" 200 22738
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/add/ HTTP/1.1" 200 23121
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24866
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8043
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+"GET /static/TripTuner/css/auth.css HTTP/1.1" 200 1642
+"GET /static/TripTuner/img/desk.png HTTP/1.1" 200 74628
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8043
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4518
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21121
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24638
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24638
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/3/change/ HTTP/1.1" 200 23028
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/3/change/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24868
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/2/change/ HTTP/1.1" 200 23321
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24866
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Forbidden (CSRF token from POST incorrect.): /triptuner/login/
+"POST /triptuner/login/ HTTP/1.1" 403 2545
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь Manager вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7295
+"GET /static/TripTuner/css/control_panel.css HTTP/1.1" 200 3047
+Пользователь Manager вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8043
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8043
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь Touragent вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7384
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 304 0
+Пользователь 3 - Touragent просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 4161
+"GET /static/TripTuner/css/basket.css HTTP/1.1" 200 1006
+Запрос на просмотр профиля пользователя Touragent.
+"GET /triptuner/profile/ HTTP/1.1" 200 9544
+Запрос на просмотр истории заказов пользователя 3.
+"GET /triptuner/order-history/u/3 HTTP/1.1" 200 4060
+"GET /static/TripTuner/css/orderPayment.css HTTP/1.1" 200 755
+Пользователь Touragent вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8043
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 9509
+Запрос на просмотр истории заказов пользователя 1.
+"GET /triptuner/order-history/u/1 HTTP/1.1" 200 4979
+Запрос на просмотр истории заказов пользователя 1.
+"GET /triptuner/order-history/u/1 HTTP/1.1" 200 5707
+Запрос на просмотр истории заказов пользователя 1.
+"GET /triptuner/order-history/u/1 HTTP/1.1" 200 5707
+Запрос на просмотр истории заказов пользователя 1.
+"GET /triptuner/order-history/u/1 HTTP/1.1" 200 5808Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+"GET /media/kamchatka.png HTTP/1.1" 304 0
+"GET /media/tour.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5494
+"GET /static/TripTuner/css/hotel.css HTTP/1.1" 304 0
+"GET /media/sochi_5dTD7X6.jpg HTTP/1.1" 304 0
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5494
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5631
+"GET /media/kavkaz.png HTTP/1.1" 304 0
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5789
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6055
+"GET /static/TripTuner/css/flightView.css HTTP/1.1" 200 1159
+"GET /media/odissea.png HTTP/1.1" 200 22158
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6055
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 9509
+Запрос на просмотр истории заказов пользователя 1.
+"GET /triptuner/order-history/u/1 HTTP/1.1" 200 5808
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6545
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5494
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5204
+"GET /static/TripTuner/css/hotelRoom.css HTTP/1.1" 200 2043
+Запрос на получение списка номеров для отеля 2.
+"GET /triptuner/hotels/2/rooms/ HTTP/1.1" 200 4373
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5204
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 5416
+"GET /static/TripTuner/css/hotelRoomDetail.css HTTP/1.1" 200 2630
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 9509
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8467
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /static/TripTuner/css/header.css HTTP/1.1" 304 0
+"GET /static/TripTuner/img/img.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour1.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour4.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour2.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour3.png HTTP/1.1" 304 0
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 304 0
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 9494
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10312
+Запрос на просмотр профиля пользователя admin.
+Internal Server Error: /triptuner/profile/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 135, in profile_view
+    return render(request, 'TripTuner/profile.html', {'user': user, 'editable': editable})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 718, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 850, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\fields\files.py", line 69, in url
+    self._require_file()
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\fields\files.py", line 44, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+"GET /triptuner/profile/ HTTP/1.1" 500 239790
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10312
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+"GET /triptuner/i18n/setlang/?next=/triptuner/&language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8784
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+"POST /triptuner/i18n/setlang/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9054
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=ru HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+"GET /triptuner/i18n/setlang/?language=en HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8745
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+"GET /triptuner/switch-language/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+"GET /triptuner/switch-language/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+"GET /triptuner/switch-language/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8630
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8504
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6255
+"GET /media/tour.png HTTP/1.1" 304 0
+"GET /media/kamchatka.png HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/?page=2 HTTP/1.1" 200 5341
+"GET /media/kavkaz.png HTTP/1.1" 304 0
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5531
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+"GET /static/TripTuner/css/hotel.css HTTP/1.1" 304 0
+"GET /media/sochi_5dTD7X6.jpg HTTP/1.1" 304 0
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5241
+"GET /media/odissea.png HTTP/1.1" 304 0
+"GET /static/TripTuner/css/hotelRoom.css HTTP/1.1" 200 2043
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 5453
+"GET /static/TripTuner/css/hotelRoomDetail.css HTTP/1.1" 200 2630
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 5453
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 5453
+Пользователь 1 - admin  отправил
+"POST /triptuner/hotels/rooms/1/add_review/ HTTP/1.1" 302 0
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 5833
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 6228
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 200 719
+"GET /static/TripTuner/img/user.png HTTP/1.1" 200 4648
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6582
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5668
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5826
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6153
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+"GET /static/TripTuner/css/flightView.css HTTP/1.1" 200 1159
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6153
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6153
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр деталей рейса 1 для тура 3.
+Internal Server Error: /triptuner/tours/3/flights/1/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 162, in flight_detail
+    reviews = Review.objects.filter(flight_id=flight_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'flight_id' into field. Choices are: advantages, client_id, client_id_id, disadvantages, hotelRoom_id, hotelRoom_id_id, id, rating, review_date
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 500 117271
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр деталей рейса 1 для тура 3.
+Internal Server Error: /triptuner/tours/3/flights/1/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 162, in flight_detail
+    reviews = Review.objects.filter(hotelRoom_id=flight_hotel_info.hotelRoom_id)
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'hotelRoom_id'
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 500 72261
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6772
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 6919
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7099
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7936
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7936
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 7918
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8362
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8726
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8726
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10349
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10820
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10820
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10833
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10868
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11054
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 10891
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11075
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11077
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11111
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11111
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11111
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11111
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11195
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11195
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11195
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11231
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11231
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11231
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11231
+Запрос на просмотр профиля пользователя admin.
+"GET /triptuner/profile/ HTTP/1.1" 200 11231
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8080
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3610
+"GET /static/TripTuner/css/auth.css HTTP/1.1" 304 0
+"GET /static/TripTuner/img/desk.png HTTP/1.1" 304 0
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3649
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3649
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3649
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3553
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3553
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3651
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8080
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3610
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3652
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3652
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3652
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3856
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3652
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3563
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3563
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3563
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3471
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8080
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3429
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3473
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3473
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3862
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3722
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3543
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3677
+Запрос на регистрацию.
+Аккаунт для Leonard создан.
+"POST /triptuner/registration/ HTTP/1.1" 302 0
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь Leonard вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8504
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8530
+"GET /media/kot_get_Kardhg6.jpg HTTP/1.1" 200 101437
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11212
+"GET /media/kot_get_Kardhg6.jpg HTTP/1.1" 304 0
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11238
+Запрос на просмотр профиля пользователя Leonard.
+Пароль пользователя Leonard обновлен.
+"POST /triptuner/profile/ HTTP/1.1" 302 0
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11238
+"GET /media/kot_get_Kardhg6.jpg HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8530
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /media/kot_get_Kardhg6.jpg HTTP/1.1" 304 0
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8515
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8435
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8435
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8844
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6281
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8916
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9148
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9238
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9238
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9198
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9216
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9216
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9216
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9197
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9207
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9194
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9222
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9218
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9215
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9219
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6281
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9220
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9168
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9211
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9211
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9211
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9217
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9199
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9218
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9236
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9236
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9236
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9236
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8760
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9236
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11238
+Запрос на просмотр истории заказов пользователя 4.
+"GET /triptuner/order-history/u/4 HTTP/1.1" 200 4951
+"GET /static/TripTuner/css/orderPayment.css HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6608
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5557
+"GET /static/TripTuner/css/hotel.css HTTP/1.1" 304 0
+"GET /media/sochiParkHot.png HTTP/1.1" 304 0
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5267
+"GET /static/TripTuner/css/hotelRoom.css HTTP/1.1" 200 2043
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 6254
+"GET /static/TripTuner/css/hotelRoomDetail.css HTTP/1.1" 304 0
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6608
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5694
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5852
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8752
+"GET /static/TripTuner/css/flightView.css HTTP/1.1" 200 1006
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9235
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4611
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+Пользователь Leonard вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8785
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+Internal Server Error: /triptuner/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 29, in home
+    return render(request, 'TripTuner/index.html', {'countries': countries})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 718, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 850, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\fields\files.py", line 69, in url
+    self._require_file()
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\fields\files.py", line 44, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+"GET /triptuner/ HTTP/1.1" 500 232482
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9286
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 21258
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 20422
+"GET /admin/TripTuner/amenity/ HTTP/1.1" 200 15485
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/TripTuner/amenity/add/ HTTP/1.1" 200 18204
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/amenity/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/amenity/ HTTP/1.1" 200 17284
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/amenity/add/ HTTP/1.1" 200 18204
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/amenity/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/amenity/ HTTP/1.1" 200 17638
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5608
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+"GET /static/TripTuner/css/hotelRoom.css HTTP/1.1" 200 2043
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 6305
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 6665
+"GET /media/bed_4731.png HTTP/1.1" 200 635
+"GET /media/television_tv_screen_icon_123445.png HTTP/1.1" 200 909
+Запрос на получение списка отелей.
+"GET /triptuner/hotels/ HTTP/1.1" 200 5608
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5318
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на получение списка номеров для отеля 1.
+Internal Server Error: /triptuner/hotels/1/rooms/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 209, in get_context_data
+    context['amenities'] = Amenity.objects.filter(hotelRoom_id=self.object.id)
+                                                               ^^^^^^^^^^^
+AttributeError: 'HotelRoomListView' object has no attribute 'object'
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 500 85774
+Запрос на получение списка номеров для отеля 1.
+Internal Server Error: /triptuner/hotels/1/rooms/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 209, in get_context_data
+    context['amenities'] = Amenity.objects.filter(hotelRoom_id=self.object.id)
+                                                               ^^^^^^^^^^^
+AttributeError: 'HotelRoomListView' object has no attribute 'object'
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 500 85774
+Запрос на получение списка номеров для отеля 1.
+Internal Server Error: /triptuner/hotels/1/rooms/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\views\generic\list.py", line 174, in get
+    context = self.get_context_data()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 209, in get_context_data
+    context['amenities'] = Amenity.objects.filter(hotelRoom_id=self.object.id)
+                                                               ^^^^^^^^^^^
+AttributeError: 'HotelRoomListView' object has no attribute 'object'
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 500 85774
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5838
+"GET /media/bed_4731.png HTTP/1.1" 304 0
+"GET /media/television_tv_screen_icon_123445.png HTTP/1.1" 304 0
+Запрос на просмотр деталей номера 1.
+"GET /triptuner/hotels/rooms/1/ HTTP/1.1" 200 6665
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на получение списка номеров для отеля 1.
+"GET /triptuner/hotels/1/rooms/ HTTP/1.1" 200 5848
+"GET /media/bed_4731.png HTTP/1.1" 304 0
+"GET /media/television_tv_screen_icon_123445.png HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 200 1898
+"GET /static/TripTuner/css/header.css HTTP/1.1" 304 0
+"GET /static/TripTuner/img/img.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour1.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour4.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour2.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/tour3.png HTTP/1.1" 304 0
+"GET /static/TripTuner/img/user.png HTTP/1.1" 304 0
+"GET /media/b1d4035b-1e95-50ba-acfb-99519ea1b6c7_soigJKh.jpg HTTP/1.1" 304 0
+Пользователь 1 - admin просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 5077
+"GET /static/TripTuner/css/basket.css HTTP/1.1" 200 1006
+"GET /media/kavkaz.png HTTP/1.1" 304 0
+Пользователь admin инициировал просмотр страницы оплаты для заказа с ID заказа 1.
+Отображение формы оплаты.
+"GET /triptuner/payment/1/ HTTP/1.1" 200 5023
+"GET /static/TripTuner/css/orderPayment.css HTTP/1.1" 304 0
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Пользователь 1 - admin просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 4275
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6659
+"GET /media/tour.png HTTP/1.1" 304 0
+"GET /media/kamchatka.png HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5745
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5903
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8822
+"GET /static/TripTuner/css/flightView.css HTTP/1.1" 304 0
+"GET /media/sochi_5dTD7X6.jpg HTTP/1.1" 304 0
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+"GET /media/odissea.png HTTP/1.1" 304 0
+Пользователь 1 - admin добавил рейс 1 в корзину
+"POST /triptuner/add_to_cart/1/ HTTP/1.1" 302 0
+Пользователь 1 - admin просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 5590
+Пользователь 1 - admin удалил товар 2 из корзины
+"POST /triptuner/remove_from_cart/2/ HTTP/1.1" 302 0
+Пользователь 1 - admin просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 4275
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 200 1898
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7225
+"GET /static/TripTuner/css/control_panel.css HTTP/1.1" 200 3047
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+"GET /triptuner/control-panel/export/?table=supportTickets&format=json HTTP/1.1" 200 286
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+Internal Server Error: /triptuner/control-panel/import/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 501, in import_data
+    data = json.load(file.open('r', encoding='utf-8'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: InMemoryUploadedFile.open() got an unexpected keyword argument 'encoding'
+"POST /triptuner/control-panel/import/ HTTP/1.1" 500 72667
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+"GET /triptuner/control-panel/export/?table=supportTickets&format=json HTTP/1.1" 200 206
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 111
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 160
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7225
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 147
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7976
+Bad Request: /triptuner/control-panel/import/
+"POST /triptuner/control-panel/import/ HTTP/1.1" 400 147
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7977
+Internal Server Error: /triptuner/control-panel/import/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "TripTuner_supportticket_pkey"
+DETAIL:  Ключ "(id)=(4)" уже существует.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 521, in import_data
+    model_class.objects.create(**item)
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\base.py", line 891, in save
+    self.save_base(
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "TripTuner_supportticket_pkey"
+DETAIL:  Ключ "(id)=(4)" уже существует.
+
+"POST /triptuner/control-panel/import/ HTTP/1.1" 500 160435
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7977
+Internal Server Error: /triptuner/control-panel/import/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 527, in import_data
+    return redirect(f'?table={table_name}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '?table=supportTickets' not found. '?table=supportTickets' is not a valid view function or pattern name.
+"POST /triptuner/control-panel/import/ HTTP/1.1" 500 93860
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /triptuner/control-panel/import/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7977
+"POST /triptuner/control-panel/import/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7982
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+"GET /static/TripTuner/css/auth.css HTTP/1.1" 304 0
+"GET /static/TripTuner/img/desk.png HTTP/1.1" 304 0
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3521
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1499
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Internal Server Error: /triptuner/login/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 59, in login_view
+    form = LoginForm(data=request.POST)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py", line 74, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\forms\models.py", line 362, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+"POST /triptuner/login/ HTTP/1.1" 500 82599
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Форма входа не прошла валидацию.
+"POST /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3521
+Запрос на регистрацию.
+Форма регистрации не прошла валидацию.
+"POST /triptuner/registration/ HTTP/1.1" 200 3765
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2534
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь admin вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 7982
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 7982
+Был прои
+"POST /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 8166
+Был прои
+"POST /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 8166
+Был прои
+Internal Server Error: /triptuner/control-panel/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 409, in control_panel
+    return redirect(f'?table={table_name}')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '?table=supportTickets' not found. '?table=supportTickets' is not a valid view function or pattern name.
+"POST /triptuner/control-panel/?table=supportTickets HTTP/1.1" 500 93746
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Был прои
+"POST /triptuner/control-panel/?table=supportTickets HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 9074
+"GET /triptuner/control-panel/delete/6/supportTickets/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 8528
+Был прои
+"POST /triptuner/control-panel/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 9091
+"GET /triptuner/control-panel/edit/5/supportTickets/ HTTP/1.1" 200 5828
+"POST /triptuner/control-panel/edit/5/supportTickets/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 9104
+"GET /triptuner/control-panel/export/?table=supportTickets&format=json HTTP/1.1" 200 641
+"POST /triptuner/control-panel/import/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 9104
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2483
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 20765
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 25957
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/TripTuner/user/4/change/ HTTP/1.1" 200 22830
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/admin/logentry/ HTTP/1.1" 200 30994
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 9104
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 9104
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 20400
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 25957
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/TripTuner/user/4/change/ HTTP/1.1" 200 22830
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/4/delete/ HTTP/1.1" 200 15445
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/TripTuner/user/4/delete/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 24330
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 9269
+"GET /static/TripTuner/css/tours_countries.css HTTP/1.1" 304 0
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8768
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 5831
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 5831
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8748
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8751
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8750
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8747
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 8749
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4518
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20349
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 17024
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16657
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16961
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16957
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16957
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16955
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16959
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16951
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16959
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16959
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20298
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13068
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 200 24975
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 200 28443
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 200 37552
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 200 28871
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 200 25809
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 200 21871
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 200 17777
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 200 23471
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 200 24637
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13068
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13944
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13614
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12919
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13068
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12482
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13068
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12458
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6332
+"GET /media/tour.png HTTP/1.1" 304 0
+"GET /media/kamchatka.png HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12449
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12475
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12475
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12475
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12495
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20075
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12495
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12495
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12495
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12471
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12473
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11129
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/4/ HTTP/1.1" 200 4408
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11420
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11065
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10974
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10977
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10977
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10977
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10977
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10977
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 10960
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20279
+"GET /admin/TripTuner/city/ HTTP/1.1" 200 18985
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20075
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/country/add/ HTTP/1.1" 200 16657
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/TripTuner/country/add/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20638
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11266
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 200 15221
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12934
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20415
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11267
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13066
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11344
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13368
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6332
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 13495
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11945
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 14012
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 14012
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 14145
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 14359
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 15080
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 15211
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 15194
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 15211
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6332
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 14547
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/country/1/ HTTP/1.1" 200 6332
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 15085
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11373
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12121
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12095
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11594
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Запрос на регистрацию.
+"GET /triptuner/registration/ HTTP/1.1" 200 3521
+Запрос на регистрацию.
+Аккаунт для Leonard создан.
+"POST /triptuner/registration/ HTTP/1.1" 302 0
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь Leonard вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12083
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 200 101437
+Запрос на получение списка туров.
+"GET /triptuner/tours/ HTTP/1.1" 200 6647
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+Запрос на получение списка туров.
+Поиск туров по запросу 'Неве'.
+"GET /triptuner/tours/?q=%D0%9D%D0%B5%D0%B2%D0%B5 HTTP/1.1" 200 6262
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+"GET /media/kavkaz.png HTTP/1.1" 200 41568
+Запрос на получение списка туров.
+Поиск туров по запросу 'Невероятные '.
+"GET /triptuner/tours/?q=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B5+ HTTP/1.1" 200 5534
+Запрос на получение списка туров.
+Поиск туров по запросу ' '.
+"GET /triptuner/tours/?q=+ HTTP/1.1" 200 6603
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+Запрос на получение списка туров.
+"GET /triptuner/tours/?page=2 HTTP/1.1" 200 5733
+Запрос на получение списка рейсов для тура 3.
+"GET /triptuner/tours/3/flights/ HTTP/1.1" 200 5891
+Запрос на просмотр деталей рейса 1 для тура 3.
+"GET /triptuner/tours/3/flights/1/ HTTP/1.1" 200 8810
+"GET /static/TripTuner/css/reviews.css HTTP/1.1" 304 0
+"GET /static/TripTuner/css/flightView.css HTTP/1.1" 200 1006
+"GET /media/sochi_5dTD7X6.jpg HTTP/1.1" 304 0
+"GET /media/odissea.png HTTP/1.1" 304 0
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+Пользователь 5 - Leonard добавил рейс 1 в корзину
+"POST /triptuner/add_to_cart/1/ HTTP/1.1" 302 0
+Пользователь 5 - Leonard просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 5578
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+"GET /static/TripTuner/css/basket.css HTTP/1.1" 200 1006
+Пользователь Leonard инициировал просмотр страницы оплаты для заказа с ID заказа 3.
+Отображение формы оплаты.
+"GET /triptuner/payment/3/ HTTP/1.1" 200 5031
+"GET /static/TripTuner/css/orderPayment.css HTTP/1.1" 200 755
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+Пользователь Leonard инициировал просмотр страницы оплаты для заказа с ID заказа 3.
+Обрабатывается POST-запрос для оплаты.
+Оплата успешно создана. Сумма: 40000.00, Способ: card.
+Internal Server Error: /triptuner/payment/3/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 321, in payment_view
+    payment_method_display = payment.payment_method.get(form.cleaned_data['payment_method'], 'Неизвестно')
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+"POST /triptuner/payment/3/ HTTP/1.1" 500 79000
+Пользователь Leonard инициировал просмотр страницы оплаты для заказа с ID заказа 3.
+Обрабатывается POST-запрос для оплаты.
+Оплата успешно создана. Сумма: 40000.00, Способ: cash.
+Internal Server Error: /triptuner/payment/3/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 321, in payment_view
+    payment_method_display = payment.payment_method.get(form.cleaned_data['payment_method'], 'Неизвестно')
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+"POST /triptuner/payment/3/ HTTP/1.1" 500 79000
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Пользователь Leonard инициировал просмотр страницы оплаты для заказа с ID заказа 3.
+Обрабатывается POST-запрос для оплаты.
+Оплата успешно создана. Сумма: 40000.00, Способ: cash.
+Internal Server Error: /triptuner/payment/3/
+Traceback (most recent call last):
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py", line 321, in payment_view
+    payment_method_display = payment.payment_method.get(form.cleaned_data['payment_method'], 'Неизвестно')
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+"POST /triptuner/payment/3/ HTTP/1.1" 500 79000
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Пользователь Leonard инициировал просмотр страницы оплаты для заказа с ID заказа 3.
+Обрабатывается POST-запрос для оплаты.
+Оплата успешно создана. Сумма: 40000.00, Способ: cash.
+Письмо об успешной оплате отправлено на adi@mail.ru.
+"POST /triptuner/payment/3/ HTTP/1.1" 302 0
+Пользователь 5 - Leonard просматривает корзину.
+"GET /triptuner/basket/ HTTP/1.1" 200 4263
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+D:\User\UserProjects\PycharmProjects\Coursework\TripTuner\views.py changed, reloading.
+Watching for file changes with StatReloader
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11176
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+Запрос на просмотр истории заказов пользователя 5.
+"GET /triptuner/order-history/u/5 HTTP/1.1" 200 5911
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11176
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/TripTuner/country/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/TripTuner/country/ HTTP/1.1" 200 4331
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+Запрос на просмотр профиля пользователя Leonard.
+"GET /triptuner/profile/ HTTP/1.1" 200 11176
+"GET /media/kot_get_befEIEe.jpg HTTP/1.1" 304 0
+"POST /admin/login/?next=/admin/TripTuner/country/ HTTP/1.1" 302 0
+"GET /admin/TripTuner/country/ HTTP/1.1" 200 20415
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/admin/logentry/ HTTP/1.1" 200 35844
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/TripTuner/user/ HTTP/1.1" 200 25952
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/TripTuner/user/5/change/ HTTP/1.1" 200 22825
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 12095
+"GET /media/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%81%D1%88%D0%B0.jpg HTTP/1.1" 304 0
+"GET /media/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+"GET /media/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg HTTP/1.1" 304 0
+"GET /media/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F.jpg HTTP/1.1" 304 0
+Пользователь admin вышел из профиля.
+"GET /triptuner/logout/ HTTP/1.1" 302 0
+Запрошена главная страница.
+"GET /triptuner/ HTTP/1.1" 200 11594
+Запрос на вход.
+"GET /triptuner/login/ HTTP/1.1" 200 1405
+Запрос на вход.
+Пользователь Touragent вошел в систему.
+"POST /triptuner/login/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 8523
+"GET /static/TripTuner/css/control_panel.css HTTP/1.1" 304 0
+Был прои
+"POST /triptuner/control-panel/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 9127
+"GET /triptuner/control-panel/export/?table=supportTickets&format=json HTTP/1.1" 200 682
+"POST /triptuner/control-panel/import/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/?table=supportTickets HTTP/1.1" 200 9153
+"GET /triptuner/control-panel/edit/4/supportTickets/ HTTP/1.1" 200 5832
+"POST /triptuner/control-panel/edit/4/supportTickets/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 9153
+"GET /triptuner/control-panel/delete/4/supportTickets/ HTTP/1.1" 302 0
+Был прои
+"GET /triptuner/control-panel/ HTTP/1.1" 200 8558
+D:\User\UserProjects\PycharmProjects\Coursework\Coursework\settings.py changed, reloading.
+Watching for file changes with StatReloader

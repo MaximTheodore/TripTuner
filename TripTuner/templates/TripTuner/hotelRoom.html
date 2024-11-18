@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Комнаты{% endblock %}
+{% block links %}
+    <link href="{% static 'TripTuner/css/tours_countries.css' %}" rel="stylesheet">
+    <link href="{% static 'TripTuner/css/hotelRoom.css' %}" rel="stylesheet">
+{% endblock %}
+
+{% block content %}
+    <div class="news-header">
+        <h1>Номера отеля</h1>
+    </div>
+    <div class="room-list">
+        {% for room in rooms %}
+            <div class="room-card">
+                <div class="room-image">
+                    {% if room.hotelroomimage_set.all %}
+                        <img src="{{ room.hotelroomimage_set.first.image.url }}" alt="Room image">
+                    {% endif %}
+                </div>
+                <div class="room-details">
+                    <a href="{% url 'hotel_room_detail' room.id %}">
+                        <h2>{{ room.name }}</h2>
+                        <p>{{ room.description }}</p>
+                        <h3>Удобства:</h3>
+                        <ul class="amenities">
+                            {% for amenity in amenities %}
+                                <li>
+                                    <img src="{{ amenity.image.url }}" alt="{{ amenity.name }}">
+                                    {{ amenity.name }}
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <nav aria-label="Page navigation example">
+      <ul class="pagination">
+      {% if page_obj.has_previous %}
+        <li class="page-item">
+          <a class="page-link" href="?page={{ page_obj.previous_page_number }}" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+          </a>
+        </li>
+      {% endif %}
+          {% for p in page_obj.paginator.page_range %}
+              {% if p == page_obj.number %}
+        <li class="page-item"><a class="page-link active" href="?page={{ p }}">{{ p }}</a></li>
+              {% elif p >= page_obj.number|add:-1 and p <= page_obj.number|add:1 %}
+        <li class="page-item"><a class="page-link" href="?page={{ p }}">{{ p }}</a></li>
+              {% endif %}
+          {% endfor %}
+      {% if page_obj.has_next %}
+        <li class="page-item">
+          <a class="page-link" href="?page={{ page_obj.next_page_number }}" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+          </a>
+        </li>
+      {% endif %}
+      </ul>
+    </nav>
+{% endblock %}

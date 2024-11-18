@@ -1,0 +1,92 @@
+
+    .room-list {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+    .room-card {
+        display: flex;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        width: 600px;
+        text-align: left;
+    }
+    .room-card .room-image {
+        flex: 1;
+        max-width: 250px;
+    }
+    .room-card .room-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .room-card .room-details {
+        flex: 2;
+        padding: 20px;
+    }
+    .room-card .room-details a {
+        color: #000;
+        text-decoration: none;
+    }
+    .room-card h2 {
+        font-size: 20px;
+        color: #333;
+        margin: 0 0 10px;
+    }
+    .room-card h3 {
+        font-size: 16px;
+        color: #666;
+        margin-top: 20px;
+    }
+    .room-card ul {
+        list-style: none;
+        padding: 0;
+        margin: 10px 0;
+    }
+    .room-card ul li {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 16px;
+        color: #555;
+    }
+    .room-card ul li img {
+        width: 20px;
+        height: 20px;
+        object-fit: contain;
+    }
+    .amenities {
+        background-color: #ffffff;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 30px;
+    }
+    .amenities h3 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 15px;
+    }
+    .amenities ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    .amenities li {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 16px;
+        color: #555;
+    }
+    .amenities li img {
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+    }

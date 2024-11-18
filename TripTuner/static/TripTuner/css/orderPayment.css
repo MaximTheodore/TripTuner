@@ -1,0 +1,33 @@
+ .order-history-card {
+        border: 1px solid #ccc;
+        padding: 15px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    .order-details {
+        margin-top: 10px;
+        font-size: 0.9em;
+        color: #555;
+    }
+
+
+    .payment-container {
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        max-width: 400px;
+        margin: auto;
+    }
+    .pay-button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .pay-button:hover {
+        background-color: #45a049;
+    }

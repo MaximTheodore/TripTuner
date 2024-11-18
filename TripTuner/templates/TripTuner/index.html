@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Trip Tuner{% endblock %}
+{% block links %}
+     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{% static 'TripTuner/css/tours_countries.css' %}" rel="stylesheet">
+{% endblock %}
+
+{% block style %}
+.country-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 250px
+}
+
+.country-card:hover {
+    transform: scale(1.05);
+}
+
+.country-card img {
+    width: 100%;
+    height: 150px; /* Уменьшение высоты изображения */
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+}
+
+.city-button {
+    background-color: #2ccdef;
+    border: none;
+    border-radius: 10px;
+    margin: 2px;
+    cursor: pointer;
+    padding: 5px 10px;
+    color: black;
+    font-size: 12px;
+}
+
+.city-button:hover {
+    background-color: #05ce75;
+}
+
+.row-center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px; /* Расстояние между блоками */
+}
+{% endblock %}
+
+{% block content %}
+<div class="container news-section">
+    <div class="news-header">
+        <h1>Последние новости о путешествиях и турах</h1>
+    </div>
+    <div class="row">
+        <div class="news-item">
+            <img src="{% static 'TripTuner/img/tour1.png' %}" alt="Новое направление">
+            <h2>Новое направление: Экзотический тур в Индонезию</h2>
+            <p>Индонезия открывает новые горизонты для путешественников! Исследуйте дикие джунгли, удивительные пляжи и древние храмы. Мы предлагаем уникальные туры с погружением в местную культуру.</p>
+        </div>
+        <div class="news-item">
+            <img src="{% static 'TripTuner/img/tour4.png' %}" alt="Популярное направление">
+            <h2>Популярное направление: Тур в Египет</h2>
+            <p>Египет — это величественные пирамиды, древние храмы и роскошные курорты Красного моря. Погрузитесь в атмосферу древности и современного комфорта, исследуя культурные сокровища и наслаждаясь пляжным отдыхом.</p>
+        </div>
+        <div class="news-item">
+            <img src="{% static 'TripTuner/img/tour2.png' %}" alt="Специальные туры">
+            <h2>Специальные туры для семейных путешествий</h2>
+            <p>Отправляйтесь в семейное приключение! Мы подготовили специальные предложения для путешествий с детьми, включая развлекательные программы и экскурсии для всех возрастов.</p>
+        </div>
+        <div class="news-item">
+            <img src="{% static 'TripTuner/img/tour3.png' %}" alt="Путешествия по России">
+            <h2>Исследуйте Россию: Новые туры по историческим местам</h2>
+            <p>Откройте для себя родные края! Мы предлагаем туры по историческим городам России с посещением уникальных памятников архитектуры и природы.</p>
+        </div>
+    </div>
+</div>
+<div class="container country-section">
+    <div class="news-header">
+        <h1>Страны для путешествий</h1>
+    </div>
+    <div class="row-center">
+        {% for country in countries %}
+        <div>
+            <a class="country-card" href="{% url 'tours_by_country' country.id %}">
+                <img src="{{ country.image.url }}" alt="{{ country.name }}" loading="lazy">
+                <h4>{{ country.name }}</h4>
+                <div class="city-buttons">
+                    {% for city in country.city_set.all %}
+                    <button class="city-button">{{ city.name }}</button>
+                    {% endfor %}
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}

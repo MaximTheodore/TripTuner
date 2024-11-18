@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Детали комнаты{% endblock %}
+{% block links %}
+    <link rel="stylesheet" href="{% static 'TripTuner/css/tours_countries.css' %}">
+    <link rel="stylesheet" href="{% static 'TripTuner/css/hotelRoomDetail.css' %}">
+    <link rel="stylesheet" href="{% static 'TripTuner/css/reviews.css' %}">
+{% endblock %}
+
+
+{% block content %}
+    <div class="news-header">
+        <h1>Детали номера {{ room.name }}</h1>
+    </div>
+
+    <div class="room-carousel">
+         {% if room.hotelroomimage_set.all %}
+                        <img src="{{ room.hotelroomimage_set.first.image.url }}" alt="Room image">
+         {% endif %}
+    </div>
+
+    <div class="room-description">
+        <p>{{ room.description }}</p>
+    </div>
+
+    <div class="amenities">
+        <h3>Удобства:</h3>
+        <ul>
+            {% for amenity in amenities %}
+                <li>
+                    <img src="{{ amenity.image.url }}" alt="{{ amenity.name }}">
+                    {{ amenity.name }}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="reviews">
+        <h2>Отзывы</h2>
+        {% for review in reviews %}
+            <div class="review">
+                <div class="review-avatar">
+                    {% if review.client_id.image %}
+                        <img src="{{ review.client_id.image }}" alt="Аватар пользователя">
+                    {% else %}
+                        <img src="{% static 'TripTuner/img/user.png' %}" alt="Аватар по умолчанию">
+                    {% endif %}
+                </div>
+                <div class="review-content">
+                    <p><strong>Оценка:</strong> {{ review.rating }}</p>
+                    <p><strong>Преимущества:</strong> {{ review.advantages }}</p>
+                    <p><strong>Недостатки:</strong> {{ review.disadvantages }}</p>
+                    <p class="review-date">{{ review.review_date }}</p>
+                </div>
+            </div>
+        {% empty %}
+            <p>Нет отзывов для данного номера.</p>
+        {% endfor %}
+    </div>
+
+
+    <div class="review-form">
+        <h3>Оставить отзыв</h3>
+        <form method="post" action="{% url 'add_review' room.id %}">
+            {% csrf_token %}
+            <label>Оценка:</label>
+            <input type="number" name="rating" min="1" max="5" required>
+            <label>Преимущества:</label>
+            <textarea name="advantages" rows="3" required></textarea>
+            <label>Недостатки:</label>
+            <textarea name="disadvantages" rows="3"></textarea>
+            <button type="submit">Отправить</button>
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Base{% endblock %}</title>
+    {% block links %}{% endblock %}
+<style>{% block style %}{% endblock %}</style>
+    <script>{% block script %}{% endblock %}</script>
+</head>
+<body>
+<header>{% block header %}{% include 'include/_header.html' %} {% endblock %}</header>
+<nav>{% block nav %} {% endblock %}</nav>
+{% block content %}{% endblock %}
+<footer>{% block footer %}{% include 'include/_footer.html' %}{% endblock %}</footer>
+</body>
+</html>
