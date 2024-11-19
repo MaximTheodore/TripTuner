@@ -470,40 +470,6 @@ def export_data(request):
         response['Content-Disposition'] = f'attachment; filename={table_name}.json'
         return response
 
-    elif format_type == 'pdf':
-        buffer = BytesIO()
-        p = canvas.Canvas(buffer, pagesize=letter)
-
-
-        pdfmetrics.registerFont(TTFont('DejaVuSans', 'DejaVuSans.ttf'))
-        p.setFont("DejaVuSans", 12)
-
-        y_position = 750
-        fields = [field.verbose_name or field.name for field in model_class._meta.fields]
-
-        for field in fields:
-            p.drawString(50, y_position, field)
-            y_position -= 20
-
-        for obj in objects:
-            y_position -= 20
-            for field in fields:
-                value = str(getattr(obj, field, ''))
-                p.drawString(150, y_position, value)
-                y_position -= 20
-            if y_position < 50:
-                p.showPage()
-                p.setFont("DejaVuSans", 12)
-                y_position = 750
-
-        p.showPage()
-        p.save()
-
-        buffer.seek(0)
-        response = HttpResponse(buffer, content_type='application/pdf')
-        response['Content-Disposition'] = f'attachment; filename={table_name}.pdf'
-        return response
-
     return JsonResponse({'error': 'Неподдерживаемый формат'}, status=400)
 
 def import_data(request):

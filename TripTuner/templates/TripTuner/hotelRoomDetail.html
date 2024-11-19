@@ -41,7 +41,7 @@
             <div class="review">
                 <div class="review-avatar">
                     {% if review.client_id.image %}
-                        <img src="{{ review.client_id.image }}" alt="Аватар пользователя">
+                        <img src="{{ review.client_id.image.url }}" alt="Аватар пользователя">
                     {% else %}
                         <img src="{% static 'TripTuner/img/user.png' %}" alt="Аватар по умолчанию">
                     {% endif %}

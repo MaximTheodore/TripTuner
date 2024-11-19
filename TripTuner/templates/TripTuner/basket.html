@@ -27,13 +27,13 @@
                     {% csrf_token %}
                     <button type="submit" class="remove-button">Удалить из корзины</button>
                 </form>
-                <div class="payment-btn">
+                <div class="payment-btn" style=" width: 200px;">
                     <a type="button" href="{% url 'payment_page' order.id %}">Перейти к оплате</a>
                 </div>
 
                 </div>
             </div>
-            <div class="payment-btn">
+            <div class="payment-btn" style=" width: 200px;">
                 <a type="button" href="{% url 'payment_page' order.id%}">Перейти к оплате</a>
             </div>
         {% endfor %}
