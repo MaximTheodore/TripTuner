@@ -9,7 +9,6 @@ on:
     branches:
       - repo
 
-
 jobs:
   checkstyle_project:
     runs-on: ubuntu-latest
